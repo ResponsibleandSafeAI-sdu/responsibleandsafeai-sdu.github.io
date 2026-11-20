@@ -9,12 +9,12 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-lab",
-          title: "lab",
-          description: "We develop Trustworthy AI, from foundational methods to quantum AI, with applications in healthcare, industrial IoT, life sciences and optics.",
+  },{id: "nav-responsible-and-safe-ai-lab",
+          title: "Responsible and Safe AI Lab",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/lab/";
+            window.location.href = "/Responsible%20and%20Safe%20AI%20Lab/";
           },
         },{id: "nav-projects",
           title: "Projects",
