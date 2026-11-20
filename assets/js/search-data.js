@@ -9,12 +9,12 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-responsible-and-safe-ai-lab",
-          title: "Responsible and Safe AI Lab",
+  },{id: "nav-",
+          title: "",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/Responsible%20and%20Safe%20AI%20Lab/";
+            window.location.href = "/Responsible%20and%20Safe%20AI%20Lab%20@%20SDU/";
           },
         },{id: "nav-projects",
           title: "Projects",
