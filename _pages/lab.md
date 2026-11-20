@@ -1,8 +1,8 @@
 ---
 layout: page
-title: lab
-permalink: /lab/
-description: We develop Trustworthy AI, from foundational methods to quantum AI, with applications in healthcare, industrial IoT, life sciences and optics.
+title: Responsible and Safe AI Lab
+permalink: /Responsible and Safe AI Lab/
+description: 
 nav: true
 nav_order: 2
 ---
