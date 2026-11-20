@@ -1,5 +1,5 @@
 # =============================================================================
-# LAB MEMBERS - edit this file to update the Lab page (/lab/)
+# LAB MEMBERS - edit this file to update the Team and Alumni pages
 # =============================================================================
 # How to add a person:
 #   1. Upload their photo to:  assets/img/lab/   (square photos look best)
@@ -13,6 +13,13 @@
 #
 # No photo yet? Use: photo: placeholder.svg
 # =============================================================================
+
+lead:
+  - name: Vinay Chakravarthi Gogineni
+    role: Associate Professor, Lab lead
+    photo: /assets/img/prof_pic_vinay.jpg
+    research: Foundational, responsible and quantum AI.
+    website: https://vinaychakravarthi.github.io/
 
 members:
   - name: Varun Sampath Kumar
