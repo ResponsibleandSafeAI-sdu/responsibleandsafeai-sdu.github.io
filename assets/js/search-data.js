@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-lab",
           title: "lab",
-          description: "",
+          description: "We develop Trustworthy AI, from foundational methods to quantum AI, with applications in healthcare, industrial IoT, life sciences and optics.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/lab/";
