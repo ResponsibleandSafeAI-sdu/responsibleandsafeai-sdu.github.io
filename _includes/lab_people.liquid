@@ -1,11 +1,12 @@
 {% comment %}
-  Shows lab members or alumni from _data/lab.yml (used by _pages/lab.md).
+  Shows lab members or alumni from _data/lab.yml (used by the Team and Alumni pages).
 {% endcomment %}
 <div class="row lab-people">
 {%- for p in include.people -%}
 {%- assign photo = p.photo | default: 'placeholder.svg' -%}
+{%- if photo contains '/' -%}{%- assign src = photo -%}{%- else -%}{%- assign src = '/assets/img/lab/' | append: photo -%}{%- endif -%}
 <div class="col-6 col-md-4 col-lg-3 mb-4 text-center">
-<img src="{{ '/assets/img/lab/' | append: photo | relative_url }}" alt="{{ p.name }}" class="rounded-circle z-depth-1 mb-2" style="width: 120px; height: 120px; object-fit: cover;" loading="lazy">
+<img src="{{ src | relative_url }}" alt="{{ p.name }}" class="rounded-circle z-depth-1 mb-2" style="width: 120px; height: 120px; object-fit: cover;" loading="lazy">
 <div class="font-weight-bold">{% if p.website and p.website != '' %}<a href="{{ p.website }}" target="_blank" rel="noopener">{{ p.name }}</a>{% else %}{{ p.name }}{% endif %}</div>
 {%- if include.show_thesis -%}
 <div class="text-muted small">{{ p.degree }}{% if p.year %}, {{ p.year }}{% endif %}</div>
