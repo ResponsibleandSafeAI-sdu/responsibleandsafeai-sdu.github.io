@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Responsible and Safe AI Lab @ SDU
 permalink: /Responsible and Safe AI Lab @ SDU/
 description: 
 nav: true
