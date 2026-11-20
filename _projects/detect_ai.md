@@ -16,7 +16,7 @@ related_publications: false
 | **Funding** | 20.3M DKK |
 | **Funder** | Innovation Fund Denmark |
 | **PI** | Axel Diederichsen |
-| **Co-PI** | Victoria |
+| **Co-PI** | Victoria Blanes-Vidal |
 | **Role** | Partner |
 
 ### Overview
@@ -25,6 +25,6 @@ Coronary artery calcification (CAC) is a strong marker of coronary artery diseas
 
 At the same time, a very large number of chest CT scans are performed every day for other reasons, such as lung cancer screening, trauma or infection. These routine scans often contain the information needed to assess CAC, but it is rarely evaluated.
 
-### Our approach: opportunistic screening
+### What We Do: Opportunistic Screening
 
-DETECT AI takes an **opportunistic** approach: we develop novel AI techniques that infer CAC risk assessment from chest CT scans that were taken for other purposes. This makes it possible to identify people at elevated cardiovascular risk early, without extra scans, extra radiation or extra cost, so that preventive treatment can start before a cardiac event occurs.
+DETECT AI takes an **opportunistic** approach to cardiovascular screening. We are developing an AI-driven, computer-aided system to assess coronary artery calcium (CAC) risk from routine chest CT scans that were taken for other purposes. This makes it possible to identify people at-risk patients early, without extra scans, extra radiation or extra cost, so that preventive treatment can start before a cardiac event occurs.
