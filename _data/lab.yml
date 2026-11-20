@@ -1,0 +1,66 @@
+# =============================================================================
+# LAB MEMBERS - edit this file to update the Lab page (/lab/)
+# =============================================================================
+# How to add a person:
+#   1. Upload their photo to:  assets/img/lab/   (square photos look best)
+#   2. Copy one block below (starting with "- name:") and fill it in.
+#      Leave a field empty ("") if you don't have it.
+#   3. Commit. The site rebuilds in about 2 minutes.
+#
+# How to move someone to alumni:
+#   cut their block from "members" and paste it under "alumni",
+#   then add "degree", "year" and "thesis".
+#
+# No photo yet? Use: photo: placeholder.svg
+# =============================================================================
+
+members:
+  - name: Varun Sampath Kumar
+    role: PhD student
+    photo: placeholder.svg
+    research: Machine unlearning for vision and large language models, towards AI that can forget on request.
+    website: ""
+
+  - name: PhD Student Name
+    role: PhD student
+    photo: placeholder.svg
+    research: One or two sentences about their research.
+    website: ""
+
+  - name: PhD Student Name
+    role: PhD student
+    photo: placeholder.svg
+    research: One or two sentences about their research.
+    website: ""
+
+  - name: PhD Student Name
+    role: PhD student
+    photo: placeholder.svg
+    research: One or two sentences about their research.
+    website: ""
+
+# -----------------------------------------------------------------------------
+# ALUMNI - "degree" must be exactly: PhD, Master or Bachelor
+# They are grouped by degree on the page, newest year first.
+# -----------------------------------------------------------------------------
+alumni:
+  - name: Alumni Name
+    degree: PhD
+    year: 2025
+    photo: placeholder.svg
+    thesis: "PhD thesis title"
+    website: ""
+
+  - name: Alumni Name
+    degree: Master
+    year: 2025
+    photo: placeholder.svg
+    thesis: "Master thesis title"
+    website: ""
+
+  - name: Alumni Name
+    degree: Bachelor
+    year: 2025
+    photo: placeholder.svg
+    thesis: "Bachelor thesis title"
+    website: ""
