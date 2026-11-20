@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "vinaychakravarthi/vinaychakravarthi.github.io",
+    "data-repo": "ResponsibleandSafeAI-sdu/responsibleandsafeai-sdu.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
