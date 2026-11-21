@@ -2,9 +2,9 @@
 layout: page
 title: Projects
 permalink: /Projects/
-description: Research projects I lead or take part in.
+description: Research projects we lead or take part in.
 nav: true
-nav_order: 3
+nav_order: 6
 display_categories: [work, fun]
 horizontal: false
 ---
