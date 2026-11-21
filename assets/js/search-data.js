@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/Responsible%20and%20Safe%20AI%20Lab%20@%20SDU/";
           },
+        },{id: "nav-research",
+          title: "Research",
+          description: "Three core pillars, with applications in healthcare, the industrial internet of things, life sciences and optics.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/research/";
+          },
         },{id: "nav-projects",
           title: "Projects",
           description: "Research projects I lead or take part in.",
