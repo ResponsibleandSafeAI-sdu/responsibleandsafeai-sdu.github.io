@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://vinaychakravarthi.github.io/sitemap.xml
+Sitemap: https://responsibleandsafeai-sdu.github.io/sitemap.xml
