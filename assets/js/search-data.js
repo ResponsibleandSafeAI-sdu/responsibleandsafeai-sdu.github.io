@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/research/";
           },
-        },{id: "nav-projects",
-          title: "Projects",
-          description: "Research projects I lead or take part in.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/Projects/";
-          },
         },{id: "nav-team",
           title: "Team",
           description: "Team members are edited in _data/lab.yml.",
@@ -57,6 +50,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/Teaching/";
+          },
+        },{id: "nav-projects",
+          title: "Projects",
+          description: "Research projects we lead or take part in.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/Projects/";
           },
         },{id: "nav-join-us",
           title: "Join us",
